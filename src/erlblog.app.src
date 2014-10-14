@@ -9,5 +9,5 @@
                   cowboy
                  ]},
   {mod, { erlblog_app, []}},
-  {env, [{http_port, 9010}]}
+  {env, [{http_port, 80}]}
  ]}.
